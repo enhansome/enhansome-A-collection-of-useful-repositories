@@ -1,7 +1,1684 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "coding-interview-university",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60493101,
+                "language": null,
+                "last_commit": "2025-08-28T14:42:47Z",
+                "owner": "jwasham",
+                "repo": "coding-interview-university",
+                "stars": 359620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Play-with-Data-Structures",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273209723,
+                "language": "C++",
+                "last_commit": "2025-05-08T02:00:39Z",
+                "owner": "codescoop",
+                "repo": "Play-with-Data-Structures",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DSA-Bootcamp-Java",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 391055597,
+                "language": "Java",
+                "last_commit": "2024-08-18T08:21:57Z",
+                "owner": "kunal-kushwaha",
+                "repo": "DSA-Bootcamp-Java",
+                "stars": 23609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "data-structures-and-algorithms-made-easy-in-java",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28282796,
+                "language": "Java",
+                "last_commit": "2021-01-12T10:53:14Z",
+                "owner": "careermonk",
+                "repo": "data-structures-and-algorithms-made-easy-in-java",
+                "stars": 770
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ultimate_Algorithms_Repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 217589952,
+                "language": "C++",
+                "last_commit": "2022-10-13T12:46:17Z",
+                "owner": "technojam",
+                "repo": "Ultimate_Algorithms_Repository",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java-DSA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445736224,
+                "language": "Java",
+                "last_commit": "2022-03-10T16:26:07Z",
+                "owner": "Nawaz2000",
+                "repo": "Java-DSA",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DSA-concepts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 396035661,
+                "language": "C++",
+                "last_commit": "2022-03-01T13:31:33Z",
+                "owner": "rupak-20",
+                "repo": "DSA-concepts",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63476337,
+                "language": "Python",
+                "last_commit": "2026-08-21T18:46:06Z",
+                "owner": "TheAlgorithms",
+                "repo": "Python",
+                "stars": 223988
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63477660,
+                "language": "Java",
+                "last_commit": "2026-08-21T08:53:40Z",
+                "owner": "TheAlgorithms",
+                "repo": "Java",
+                "stars": 66185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "javascript-algorithms",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126577260,
+                "language": "JavaScript",
+                "last_commit": "2026-07-26T02:43:08Z",
+                "owner": "trekhleb",
+                "repo": "javascript-algorithms",
+                "stars": 196546
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "algorithms",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74073233,
+                "language": "Python",
+                "last_commit": "2026-08-01T08:02:17Z",
+                "owner": "keon",
+                "repo": "algorithms",
+                "stars": 25542
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "algorithms",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85371262,
+                "language": "Java",
+                "last_commit": "2026-06-23T09:33:06Z",
+                "owner": "williamfiset",
+                "repo": "algorithms",
+                "stars": 18717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "algorithm-visualizer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58836534,
+                "language": "JavaScript",
+                "last_commit": "2024-06-09T06:54:22Z",
+                "owner": "algorithm-visualizer",
+                "repo": "algorithm-visualizer",
+                "stars": 48690
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Competitive-Coding",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139158882,
+                "language": "C++",
+                "last_commit": "2024-07-18T20:23:24Z",
+                "owner": "Ashishgup1",
+                "repo": "Competitive-Coding",
+                "stars": 1462
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Structures."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Data_Preprocessing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597452139,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-02-08T21:41:40Z",
+                "owner": "Abdelrhman-Sayed70",
+                "repo": "Data_Preprocessing",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Preprocessing."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97159209,
+                "language": "Python",
+                "last_commit": "2025-03-19T09:40:41Z",
+                "owner": "TarrySingh",
+                "repo": "Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+                "stars": 4002
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Basic-Mathematics-for-Machine-Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146541960,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-13T07:52:53Z",
+                "owner": "hrnbot",
+                "repo": "Basic-Mathematics-for-Machine-Learning",
+                "stars": 750
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ml-from-scratch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173302826,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-05-08T10:44:29Z",
+                "owner": "giangtranml",
+                "repo": "ml-from-scratch",
+                "stars": 224
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Machine Learning."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mathematicalpython",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 199181698,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-02-13T03:59:56Z",
+                "owner": "patrickwalls",
+                "repo": "mathematicalpython",
+                "stars": 559
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python-Mathematics-Handbook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81734739,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-12-30T20:04:45Z",
+                "owner": "drvinceknight",
+                "repo": "Python-Mathematics-Handbook",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "math-as-code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38273467,
+                "language": null,
+                "last_commit": "2022-03-08T02:36:31Z",
+                "owner": "Experience-Monks",
+                "repo": "math-as-code",
+                "stars": 15487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rob501",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452298460,
+                "language": null,
+                "last_commit": "2022-03-21T15:33:13Z",
+                "owner": "michiganrobotics",
+                "repo": "rob501",
+                "stars": 2864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mathematics-roadmap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172679145,
+                "language": null,
+                "last_commit": "2024-12-29T18:34:40Z",
+                "owner": "TalalAlrawajfeh",
+                "repo": "mathematics-roadmap",
+                "stars": 3547
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FinMathematics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51041998,
+                "language": "Mathematica",
+                "last_commit": "2016-02-04T00:54:26Z",
+                "owner": "PlamenStilyianov",
+                "repo": "FinMathematics",
+                "stars": 1700
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-math",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41793121,
+                "language": "Python",
+                "last_commit": "2026-08-14T08:36:36Z",
+                "owner": "rossant",
+                "repo": "awesome-math",
+                "stars": 16161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "distribution-cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115935279,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-01-23T20:20:57Z",
+                "owner": "jgoerner",
+                "repo": "distribution-cheatsheet",
+                "stars": 70
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Math."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "flutter-tips-and-tricks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352520596,
+                "language": "Dart",
+                "last_commit": "2023-09-10T16:58:52Z",
+                "owner": "vandadnp",
+                "repo": "flutter-tips-and-tricks",
+                "stars": 6810
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "learning_dart",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12524635,
+                "language": "Dart",
+                "last_commit": "2014-06-04T07:39:33Z",
+                "owner": "Ivo-Balbaert",
+                "repo": "learning_dart",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flutter_ui_collection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188238055,
+                "language": "Dart",
+                "last_commit": "2019-08-17T18:56:19Z",
+                "owner": "iharshb",
+                "repo": "flutter_ui_collection",
+                "stars": 263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-Interview-Questions-And-Answers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150301363,
+                "language": "Java",
+                "last_commit": "2022-02-11T01:51:33Z",
+                "owner": "vamsitallapudi",
+                "repo": "Android-Interview-Questions-And-Answers",
+                "stars": 305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Best-Coding-practices-in-android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135898571,
+                "language": "Java",
+                "last_commit": "2022-11-23T10:27:08Z",
+                "owner": "balsikandar",
+                "repo": "Best-Coding-practices-in-android",
+                "stars": 97
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Flutter and App Dev."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IoT-For-Beginners",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344192338,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-26T21:50:02Z",
+                "owner": "microsoft",
+                "repo": "IoT-For-Beginners",
+                "stars": 17014
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-connected-things-sec",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133933655,
+                "language": null,
+                "last_commit": "2026-08-18T14:04:55Z",
+                "owner": "V33RU",
+                "repo": "awesome-connected-things-sec",
+                "stars": 3520
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IOT."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solutions-to-first-year-practicals",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 420018238,
+                "language": "C",
+                "last_commit": "2024-07-07T04:27:22Z",
+                "owner": "Aatmaj-Zephyr",
+                "repo": "Solutions-to-first-year-practicals",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open-source-practice-and-resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 534507274,
+                "language": null,
+                "last_commit": "2025-10-16T19:19:00Z",
+                "owner": "Ashish-khanagwal",
+                "repo": "Open-source-practice-and-resources",
+                "stars": 103
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "University."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "interview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22043847,
+                "language": "Java",
+                "last_commit": "2024-07-31T18:47:32Z",
+                "owner": "mission-peace",
+                "repo": "interview",
+                "stars": 11360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InterviewThis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9925600,
+                "language": null,
+                "last_commit": "2022-08-28T03:44:01Z",
+                "owner": "Twipped",
+                "repo": "InterviewThis",
+                "stars": 6904
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reverse-interview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207117992,
+                "language": null,
+                "last_commit": "2025-02-19T22:41:18Z",
+                "owner": "viraptor",
+                "repo": "reverse-interview",
+                "stars": 28582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tech-interview-handbook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62607227,
+                "language": "TypeScript",
+                "last_commit": "2026-08-07T12:06:42Z",
+                "owner": "yangshun",
+                "repo": "tech-interview-handbook",
+                "stars": 142121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "interview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16334982,
+                "language": null,
+                "last_commit": "2024-12-25T19:55:23Z",
+                "owner": "Olshansk",
+                "repo": "interview",
+                "stars": 18357
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coding-Interview-Preparation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202400441,
+                "language": null,
+                "last_commit": "2020-08-30T19:09:37Z",
+                "owner": "coding-club-iit-jammu",
+                "repo": "Coding-Interview-Preparation",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Resources-for-preparation-Of-Placements",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453396795,
+                "language": null,
+                "last_commit": "2024-08-06T05:48:49Z",
+                "owner": "riti2409",
+                "repo": "Resources-for-preparation-Of-Placements",
+                "stars": 3754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tech-Interview-Cheat-Sheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205901522,
+                "language": "TypeScript",
+                "last_commit": "2024-07-01T06:37:55Z",
+                "owner": "tsiege",
+                "repo": "Tech-Interview-Cheat-Sheet",
+                "stars": 4678
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interview Prep."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LeetCode",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468608116,
+                "language": null,
+                "last_commit": "2022-03-10T16:25:46Z",
+                "owner": "WonderPro",
+                "repo": "LeetCode",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "toy-problems",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109152244,
+                "language": "JavaScript",
+                "last_commit": "2018-03-09T21:15:08Z",
+                "owner": "stephencarrera",
+                "repo": "toy-problems",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LeetCode-Practice",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 441735753,
+                "language": "C++",
+                "last_commit": "2023-02-05T17:37:36Z",
+                "owner": "nilesyadv",
+                "repo": "LeetCode-Practice",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Leetcode",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 448273776,
+                "language": "C++",
+                "last_commit": "2024-08-28T15:08:50Z",
+                "owner": "knockcat",
+                "repo": "Leetcode",
+                "stars": 505
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Competitive-Programming",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 408555051,
+                "language": "C++",
+                "last_commit": "2022-03-02T07:58:22Z",
+                "owner": "rupak-20",
+                "repo": "Competitive-Programming",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MissionImpossible",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369305094,
+                "language": "C++",
+                "last_commit": "2025-02-13T12:28:44Z",
+                "owner": "Navaneethp007",
+                "repo": "MissionImpossible",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Competitive_Programming",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508271104,
+                "language": "C#",
+                "last_commit": "2023-09-11T12:46:36Z",
+                "owner": "Abdelrhman-Sayed70",
+                "repo": "Competitive_Programming",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Competitive Programming."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-ios",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21700699,
+                "language": "Swift",
+                "last_commit": "2026-06-24T14:58:10Z",
+                "owner": "vsouza",
+                "repo": "awesome-ios",
+                "stars": 53149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112600629,
+                "language": null,
+                "last_commit": "2023-11-06T14:01:12Z",
+                "owner": "ansjdnakjdnajkd",
+                "repo": "iOS",
+                "stars": 1308
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iOS."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "full-blockchain-solidity-course-js",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 448715893,
+                "language": null,
+                "last_commit": "2024-06-12T05:10:25Z",
+                "owner": "smartcontractkit",
+                "repo": "full-blockchain-solidity-course-js",
+                "stars": 14034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "blockchain-learning-path",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104366016,
+                "language": null,
+                "last_commit": "2024-05-31T07:11:11Z",
+                "owner": "protofire",
+                "repo": "blockchain-learning-path",
+                "stars": 2673
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Blockchain."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "learn-to-cloud",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 377305568,
+                "language": "CSS",
+                "last_commit": "2026-02-14T03:23:22Z",
+                "owner": "learntocloud",
+                "repo": "learn-to-cloud",
+                "stars": 5774
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cloud Computing."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "website-templates",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208548841,
+                "language": "JavaScript",
+                "last_commit": "2024-04-26T13:14:07Z",
+                "owner": "learning-zone",
+                "repo": "website-templates",
+                "stars": 6000
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-rest-api-cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145080988,
+                "language": null,
+                "last_commit": "2018-11-11T19:17:58Z",
+                "owner": "ryanthtra",
+                "repo": "django-rest-api-cheatsheet",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-django",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129094260,
+                "language": "Python",
+                "last_commit": "2026-08-18T13:46:11Z",
+                "owner": "wsvincent",
+                "repo": "awesome-django",
+                "stars": 11222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "learning-react",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61668321,
+                "language": "JavaScript",
+                "last_commit": "2026-02-13T16:40:12Z",
+                "owner": "MoonHighway",
+                "repo": "learning-react",
+                "stars": 3739
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nodejs-course",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120661657,
+                "language": "JavaScript",
+                "last_commit": "2019-11-27T13:14:06Z",
+                "owner": "goldbergyoni",
+                "repo": "nodejs-course",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "30-days-of-react",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78477480,
+                "language": "JavaScript",
+                "last_commit": "2023-10-09T07:18:29Z",
+                "owner": "fullstackreact",
+                "repo": "30-days-of-react",
+                "stars": 2251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript-30",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79238805,
+                "language": "HTML",
+                "last_commit": "2017-01-23T16:23:43Z",
+                "owner": "SanKlein",
+                "repo": "JavaScript-30",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-bootstrappers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121539639,
+                "language": "Shell",
+                "last_commit": "2023-09-16T16:25:36Z",
+                "owner": "LeCoupa",
+                "repo": "awesome-bootstrappers",
+                "stars": 270
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Dev."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "security-study-plan",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 483309081,
+                "language": null,
+                "last_commit": "2026-08-12T07:08:09Z",
+                "owner": "jassics",
+                "repo": "security-study-plan",
+                "stars": 5048
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "learngo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153099672,
+                "language": "Go",
+                "last_commit": "2025-06-24T23:03:52Z",
+                "owner": "inancgumus",
+                "repo": "learngo",
+                "stars": 20116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318177182,
+                "language": "Java",
+                "last_commit": "2024-08-06T22:19:03Z",
+                "owner": "PrajaktaSathe",
+                "repo": "Java",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rust-learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35210243,
+                "language": null,
+                "last_commit": "2026-05-29T08:20:56Z",
+                "owner": "ctjhoa",
+                "repo": "rust-learning",
+                "stars": 12233
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "javascripting",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24617126,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T09:51:43Z",
+                "owner": "workshopper",
+                "repo": "javascripting",
+                "stars": 2906
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KotlinTutorial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148912411,
+                "language": "Kotlin",
+                "last_commit": "2022-03-08T04:01:50Z",
+                "owner": "smartherd",
+                "repo": "KotlinTutorial",
+                "stars": 292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby-Cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192870025,
+                "language": "Ruby",
+                "last_commit": "2026-07-17T02:02:32Z",
+                "owner": "lifeparticle",
+                "repo": "Ruby-Cheatsheet",
+                "stars": 219
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typescript-cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 172856676,
+                "language": "TypeScript",
+                "last_commit": "2025-08-13T03:45:27Z",
+                "owner": "rmolinamir",
+                "repo": "typescript-cheatsheet",
+                "stars": 827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "python-cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118820677,
+                "language": "Vue",
+                "last_commit": "2026-07-01T08:14:51Z",
+                "owner": "labex-labs",
+                "repo": "python-cheatsheet",
+                "stars": 4951
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7days-golang",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201658460,
+                "language": "Go",
+                "last_commit": "2024-07-19T01:50:47Z",
+                "owner": "geektutu",
+                "repo": "7days-golang",
+                "stars": 16982
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "es6-cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50134307,
+                "language": "JavaScript",
+                "last_commit": "2022-10-08T07:44:38Z",
+                "owner": "DrkSephy",
+                "repo": "es6-cheatsheet",
+                "stars": 13324
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "python-cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194203768,
+                "language": "Python",
+                "last_commit": "2023-12-20T08:42:15Z",
+                "owner": "tuantvk",
+                "repo": "python-cheatsheet",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Programming-Basics-Book-Java-EN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182970565,
+                "language": "JavaScript",
+                "last_commit": "2023-10-20T08:26:20Z",
+                "owner": "SoftUni",
+                "repo": "Programming-Basics-Book-Java-EN",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C-Plus-Plus",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63477612,
+                "language": "C++",
+                "last_commit": "2025-10-11T14:51:22Z",
+                "owner": "TheAlgorithms",
+                "repo": "C-Plus-Plus",
+                "stars": 34599
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Batch-2021",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453095159,
+                "language": "Python",
+                "last_commit": "2022-11-11T04:51:08Z",
+                "owner": "Aatmaj-Zephyr",
+                "repo": "Batch-2021",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning-Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378375642,
+                "language": "Python",
+                "last_commit": "2023-07-07T06:58:15Z",
+                "owner": "Aatmaj-Zephyr",
+                "repo": "Learning-Python",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MATLAB-MONDAYS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382763508,
+                "language": "MATLAB",
+                "last_commit": "2022-12-23T04:55:01Z",
+                "owner": "Aatmaj-Zephyr",
+                "repo": "MATLAB-MONDAYS",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Advance-Python-Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85925360,
+                "language": null,
+                "last_commit": "2021-12-16T06:17:49Z",
+                "owner": "kjsce-codecell",
+                "repo": "Advance-Python-Notes",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python-100DaysOfCode",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369084223,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-09-18T05:25:42Z",
+                "owner": "PrachetShah",
+                "repo": "Python-100DaysOfCode",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language Resources, Questions and Cheatsheets."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DBMS_SQL-Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 450828603,
+                "language": null,
+                "last_commit": "2024-01-07T11:05:54Z",
+                "owner": "riti2409",
+                "repo": "DBMS_SQL-Notes",
+                "stars": 718
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cheatsheets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88994936,
+                "language": null,
+                "last_commit": "2020-03-30T07:11:20Z",
+                "owner": "sematext",
+                "repo": "cheatsheets",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cheatsheets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195028166,
+                "language": "Python",
+                "last_commit": "2026-07-27T15:34:12Z",
+                "owner": "ruanbekker",
+                "repo": "cheatsheets",
+                "stars": 535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "markdown-cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6155249,
+                "language": null,
+                "last_commit": "2025-08-31T20:33:42Z",
+                "owner": "tchapi",
+                "repo": "markdown-cheatsheet",
+                "stars": 5291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180860601,
+                "language": null,
+                "last_commit": "2024-01-20T19:27:30Z",
+                "owner": "darkmatter18",
+                "repo": "cheatsheet",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-cheatsheets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110058856,
+                "language": "JavaScript",
+                "last_commit": "2026-04-12T17:26:10Z",
+                "owner": "LeCoupa",
+                "repo": "awesome-cheatsheets",
+                "stars": 46390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java-Cheat-Sheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256900171,
+                "language": null,
+                "last_commit": "2020-04-19T03:52:31Z",
+                "owner": "PushpenderIndia",
+                "repo": "Java-Cheat-Sheet",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "html-cheat-sheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21326058,
+                "language": null,
+                "last_commit": "2016-08-04T09:30:59Z",
+                "owner": "gendx",
+                "repo": "html-cheat-sheet",
+                "stars": 80
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cheatsheets."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-repositories",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369996666,
+                "language": null,
+                "last_commit": "2022-10-12T01:19:52Z",
+                "owner": "0xRitesh",
+                "repo": "awesome-repositories",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Useful-Repositories",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106404294,
+                "language": null,
+                "last_commit": "2018-11-01T03:32:31Z",
+                "owner": "thuva4",
+                "repo": "Useful-Repositories",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Awesome Github Repositories."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Git-CheatSheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 540370508,
+                "language": "JavaScript",
+                "last_commit": "2022-12-23T18:56:25Z",
+                "owner": "EshanTrivedi21",
+                "repo": "Git-CheatSheet",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-for-beginners-course",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286938796,
+                "language": null,
+                "last_commit": "2024-05-03T10:46:25Z",
+                "owner": "kodekloudhub",
+                "repo": "git-for-beginners-course",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Git",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 594971359,
+                "language": null,
+                "last_commit": "2023-07-04T13:03:46Z",
+                "owner": "Abdelrhman-Sayed70",
+                "repo": "Git",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Git."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fp-resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146462367,
+                "language": null,
+                "last_commit": "2020-04-17T08:29:33Z",
+                "owner": "mmenestret",
+                "repo": "fp-resources",
+                "stars": 485
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DevOps-Bootcamp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436221598,
+                "language": null,
+                "last_commit": "2024-07-18T09:11:07Z",
+                "owner": "kunal-kushwaha",
+                "repo": "DevOps-Bootcamp",
+                "stars": 2412
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "practice",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98815365,
+                "language": "JavaScript",
+                "last_commit": "2017-09-13T03:39:33Z",
+                "owner": "SanKlein",
+                "repo": "practice",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "design-patterns-for-humans",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82227585,
+                "language": null,
+                "last_commit": "2024-12-02T04:54:48Z",
+                "owner": "nilbuild",
+                "repo": "design-patterns-for-humans",
+                "stars": 48467
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Books_for_programming",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468610251,
+                "language": null,
+                "last_commit": "2022-03-04T14:52:04Z",
+                "owner": "WonderPro",
+                "repo": "Books_for_programming",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bootstrap-cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331967906,
+                "language": "HTML",
+                "last_commit": "2025-08-27T10:52:30Z",
+                "owner": "themeselection",
+                "repo": "bootstrap-cheatsheet",
+                "stars": 472
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "public-apis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54346799,
+                "language": "Python",
+                "last_commit": "2026-08-19T21:44:19Z",
+                "owner": "public-apis",
+                "repo": "public-apis",
+                "stars": 469639
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others."
+        }
+      ],
+      "title": "Table of contents."
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T04:55:12.045Z",
+    "last_updated": "2026-08-24T14:31:02.155Z",
     "original_repository": "Aatmaj-Zephyr/A-collection-of-useful-repositories",
     "original_repository_id": 468614243,
     "original_repository_sha": "6124736b6adbc56b1ab675dc286a240037fcb305",
