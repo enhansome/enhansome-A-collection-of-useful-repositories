@@ -17,7 +17,7 @@
                 "last_commit": "2025-08-28T14:42:47Z",
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359671
+                "stars": 359677
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-21T18:46:06Z",
                 "owner": "TheAlgorithms",
                 "repo": "Python",
-                "stars": 224006
+                "stars": 224007
               }
             },
             {
@@ -134,10 +134,10 @@
                 "archived": false,
                 "id": 63477660,
                 "language": "Java",
-                "last_commit": "2026-08-24T21:43:50Z",
+                "last_commit": "2026-08-25T05:27:56Z",
                 "owner": "TheAlgorithms",
                 "repo": "Java",
-                "stars": 66187
+                "stars": 66186
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-06-23T09:33:06Z",
                 "owner": "williamfiset",
                 "repo": "algorithms",
-                "stars": 18717
+                "stars": 18716
               }
             },
             {
@@ -636,7 +636,7 @@
                 "last_commit": "2026-08-07T12:06:42Z",
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 142135
+                "stars": 142139
               }
             },
             {
@@ -830,7 +830,7 @@
                 "last_commit": "2026-06-24T14:58:10Z",
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53156
+                "stars": 53157
               }
             },
             {
@@ -971,7 +971,7 @@
                 "last_commit": "2026-02-13T16:40:12Z",
                 "owner": "MoonHighway",
                 "repo": "learning-react",
-                "stars": 3739
+                "stars": 3738
               }
             },
             {
@@ -1195,7 +1195,7 @@
                 "last_commit": "2024-07-19T01:50:47Z",
                 "owner": "geektutu",
                 "repo": "7days-golang",
-                "stars": 16982
+                "stars": 16983
               }
             },
             {
@@ -1434,7 +1434,7 @@
                 "last_commit": "2026-04-12T17:26:10Z",
                 "owner": "LeCoupa",
                 "repo": "awesome-cheatsheets",
-                "stars": 46389
+                "stars": 46390
               }
             },
             {
@@ -1665,7 +1665,7 @@
                 "last_commit": "2026-08-19T21:44:19Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 469974
+                "stars": 470018
               }
             }
           ],
@@ -1678,7 +1678,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:48:09.878Z",
+    "last_updated": "2026-08-25T06:22:16.559Z",
     "original_repository": "Aatmaj-Zephyr/A-collection-of-useful-repositories",
     "original_repository_id": 468614243,
     "original_repository_sha": "6124736b6adbc56b1ab675dc286a240037fcb305",
