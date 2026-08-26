@@ -17,7 +17,7 @@
                 "last_commit": "2025-08-28T14:42:47Z",
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359677
+                "stars": 359730
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-08-18T08:21:57Z",
                 "owner": "kunal-kushwaha",
                 "repo": "DSA-Bootcamp-Java",
-                "stars": 23613
+                "stars": 23623
               }
             },
             {
@@ -119,10 +119,10 @@
                 "archived": false,
                 "id": 63476337,
                 "language": "Python",
-                "last_commit": "2026-08-21T18:46:06Z",
+                "last_commit": "2026-08-25T14:09:01Z",
                 "owner": "TheAlgorithms",
                 "repo": "Python",
-                "stars": 224007
+                "stars": 224031
               }
             },
             {
@@ -134,10 +134,10 @@
                 "archived": false,
                 "id": 63477660,
                 "language": "Java",
-                "last_commit": "2026-08-25T05:27:56Z",
+                "last_commit": "2026-08-25T21:42:59Z",
                 "owner": "TheAlgorithms",
                 "repo": "Java",
-                "stars": 66186
+                "stars": 66184
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-07-26T02:43:08Z",
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196549
+                "stars": 196558
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-06-23T09:33:06Z",
                 "owner": "williamfiset",
                 "repo": "algorithms",
-                "stars": 18716
+                "stars": 18719
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2024-06-09T06:54:22Z",
                 "owner": "algorithm-visualizer",
                 "repo": "algorithm-visualizer",
-                "stars": 48691
+                "stars": 48692
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2022-03-08T02:36:31Z",
                 "owner": "Experience-Monks",
                 "repo": "math-as-code",
-                "stars": 15488
+                "stars": 15487
               }
             },
             {
@@ -398,7 +398,7 @@
                 "last_commit": "2026-08-14T08:36:36Z",
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16165
+                "stars": 16167
               }
             },
             {
@@ -517,7 +517,7 @@
                 "last_commit": "2026-05-26T21:50:02Z",
                 "owner": "microsoft",
                 "repo": "IoT-For-Beginners",
-                "stars": 17016
+                "stars": 17015
               }
             },
             {
@@ -532,7 +532,7 @@
                 "last_commit": "2026-08-18T14:04:55Z",
                 "owner": "V33RU",
                 "repo": "awesome-connected-things-sec",
-                "stars": 3521
+                "stars": 3523
               }
             }
           ],
@@ -591,7 +591,7 @@
                 "last_commit": "2024-07-31T18:47:32Z",
                 "owner": "mission-peace",
                 "repo": "interview",
-                "stars": 11359
+                "stars": 11358
               }
             },
             {
@@ -621,7 +621,7 @@
                 "last_commit": "2025-02-19T22:41:18Z",
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28582
+                "stars": 28585
               }
             },
             {
@@ -636,7 +636,7 @@
                 "last_commit": "2026-08-07T12:06:42Z",
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 142139
+                "stars": 142167
               }
             },
             {
@@ -651,7 +651,7 @@
                 "last_commit": "2024-12-25T19:55:23Z",
                 "owner": "Olshansk",
                 "repo": "interview",
-                "stars": 18358
+                "stars": 18359
               }
             },
             {
@@ -681,7 +681,7 @@
                 "last_commit": "2024-08-06T05:48:49Z",
                 "owner": "riti2409",
                 "repo": "Resources-for-preparation-Of-Placements",
-                "stars": 3754
+                "stars": 3756
               }
             },
             {
@@ -763,7 +763,7 @@
                 "last_commit": "2024-08-28T15:08:50Z",
                 "owner": "knockcat",
                 "repo": "Leetcode",
-                "stars": 505
+                "stars": 506
               }
             },
             {
@@ -830,7 +830,7 @@
                 "last_commit": "2026-06-24T14:58:10Z",
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53157
+                "stars": 53166
               }
             },
             {
@@ -845,7 +845,7 @@
                 "last_commit": "2023-11-06T14:01:12Z",
                 "owner": "ansjdnakjdnajkd",
                 "repo": "iOS",
-                "stars": 1308
+                "stars": 1307
               }
             }
           ],
@@ -867,7 +867,7 @@
                 "last_commit": "2024-06-12T05:10:25Z",
                 "owner": "smartcontractkit",
                 "repo": "full-blockchain-solidity-course-js",
-                "stars": 14034
+                "stars": 14035
               }
             },
             {
@@ -904,7 +904,7 @@
                 "last_commit": "2026-02-14T03:23:22Z",
                 "owner": "learntocloud",
                 "repo": "learn-to-cloud",
-                "stars": 5774
+                "stars": 5773
               }
             }
           ],
@@ -926,7 +926,7 @@
                 "last_commit": "2024-04-26T13:14:07Z",
                 "owner": "learning-zone",
                 "repo": "website-templates",
-                "stars": 5999
+                "stars": 6001
               }
             },
             {
@@ -956,7 +956,7 @@
                 "last_commit": "2026-08-18T13:46:11Z",
                 "owner": "wsvincent",
                 "repo": "awesome-django",
-                "stars": 11223
+                "stars": 11222
               }
             },
             {
@@ -1053,7 +1053,7 @@
                 "last_commit": "2026-08-12T07:08:09Z",
                 "owner": "jassics",
                 "repo": "security-study-plan",
-                "stars": 5049
+                "stars": 5048
               }
             }
           ],
@@ -1075,7 +1075,7 @@
                 "last_commit": "2025-06-24T23:03:52Z",
                 "owner": "inancgumus",
                 "repo": "learngo",
-                "stars": 20117
+                "stars": 20121
               }
             },
             {
@@ -1255,7 +1255,7 @@
                 "last_commit": "2025-10-11T14:51:22Z",
                 "owner": "TheAlgorithms",
                 "repo": "C-Plus-Plus",
-                "stars": 34601
+                "stars": 34604
               }
             },
             {
@@ -1434,7 +1434,7 @@
                 "last_commit": "2026-04-12T17:26:10Z",
                 "owner": "LeCoupa",
                 "repo": "awesome-cheatsheets",
-                "stars": 46390
+                "stars": 46395
               }
             },
             {
@@ -1620,7 +1620,7 @@
                 "last_commit": "2024-12-02T04:54:48Z",
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48467
+                "stars": 48470
               }
             },
             {
@@ -1665,7 +1665,7 @@
                 "last_commit": "2026-08-19T21:44:19Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 470018
+                "stars": 470549
               }
             }
           ],
@@ -1678,7 +1678,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:16.559Z",
+    "last_updated": "2026-08-26T04:49:16.075Z",
     "original_repository": "Aatmaj-Zephyr/A-collection-of-useful-repositories",
     "original_repository_id": 468614243,
     "original_repository_sha": "6124736b6adbc56b1ab675dc286a240037fcb305",
