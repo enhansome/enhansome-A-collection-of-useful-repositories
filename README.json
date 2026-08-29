@@ -21,7 +21,7 @@
                 "open_issues": 126,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359924,
+                "stars": 359942,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -84,7 +84,7 @@
                 "open_issues": 664,
                 "owner": "kunal-kushwaha",
                 "repo": "DSA-Bootcamp-Java",
-                "stars": 23648,
+                "stars": 23654,
                 "topics": [
                   "algorithms",
                   "competitive-programming",
@@ -232,7 +232,7 @@
                 "open_issues": 1063,
                 "owner": "TheAlgorithms",
                 "repo": "Python",
-                "stars": 224083,
+                "stars": 224090,
                 "topics": [
                   "algorithm",
                   "algorithm-competitions",
@@ -264,11 +264,11 @@
                 "id": 63477660,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-28T21:43:53Z",
-                "open_issues": 12,
+                "last_commit": "2026-08-29T05:51:09Z",
+                "open_issues": 11,
                 "owner": "TheAlgorithms",
                 "repo": "Java",
-                "stars": 66196,
+                "stars": 66197,
                 "topics": [
                   "algorithm",
                   "algorithm-challenges",
@@ -300,7 +300,7 @@
                 "open_issues": 404,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196577,
+                "stars": 196579,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -330,7 +330,7 @@
                 "open_issues": 5,
                 "owner": "keon",
                 "repo": "algorithms",
-                "stars": 25540,
+                "stars": 25541,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -731,7 +731,7 @@
                 "open_issues": 0,
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16194,
+                "stars": 16195,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -981,7 +981,7 @@
                 "id": 133933655,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-08-18T14:04:55Z",
+                "last_commit": "2026-08-29T06:10:09Z",
                 "open_issues": 0,
                 "owner": "V33RU",
                 "repo": "awesome-connected-things-sec",
@@ -1130,7 +1130,7 @@
                 "open_issues": 23,
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28587,
+                "stars": 28588,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
@@ -1151,7 +1151,7 @@
                 "open_issues": 35,
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 142271,
+                "stars": 142280,
                 "topics": [
                   "algorithm",
                   "algorithm-interview",
@@ -1465,7 +1465,7 @@
                 "open_issues": 24,
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53195,
+                "stars": 53200,
                 "topics": [
                   "apple-swift",
                   "arkit",
@@ -1549,7 +1549,7 @@
                 "open_issues": 104,
                 "owner": "smartcontractkit",
                 "repo": "full-blockchain-solidity-course-js",
-                "stars": 14038,
+                "stars": 14039,
                 "topics": [
                   "alchemy",
                   "blockchain",
@@ -1706,7 +1706,7 @@
                 "open_issues": 10,
                 "owner": "wsvincent",
                 "repo": "awesome-django",
-                "stars": 11223,
+                "stars": 11224,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1922,7 +1922,7 @@
                 "open_issues": 44,
                 "owner": "inancgumus",
                 "repo": "learngo",
-                "stars": 20122,
+                "stars": 20124,
                 "topics": [
                   "best-practices",
                   "course",
@@ -2276,7 +2276,7 @@
                 "open_issues": 25,
                 "owner": "TheAlgorithms",
                 "repo": "C-Plus-Plus",
-                "stars": 34615,
+                "stars": 34618,
                 "topics": [
                   "algorithm",
                   "algorithm-competitions",
@@ -2589,7 +2589,7 @@
                 "open_issues": 136,
                 "owner": "LeCoupa",
                 "repo": "awesome-cheatsheets",
-                "stars": 46405,
+                "stars": 46407,
                 "topics": [
                   "backend",
                   "bash",
@@ -2910,7 +2910,7 @@
                 "open_issues": 16,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48752,
+                "stars": 48781,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -2983,10 +2983,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-26T19:19:56Z",
-                "open_issues": 1809,
+                "open_issues": 1820,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 472428,
+                "stars": 472568,
                 "topics": [
                   "api",
                   "apis",
@@ -3015,7 +3015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:26.066Z",
+    "last_updated": "2026-08-29T10:59:28.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a collection of useful repositories providing resources for learning. Feel free to contribute here",
