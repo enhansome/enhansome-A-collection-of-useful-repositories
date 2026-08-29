@@ -12,12 +12,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete computer science study plan to become a software engineer.",
+                "homepage": null,
                 "id": 60493101,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-08-28T14:42:47Z",
+                "open_issues": 126,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359902
+                "stars": 359924,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "coding-interview",
+                  "coding-interviews",
+                  "computer-science",
+                  "data-structures",
+                  "interview",
+                  "interview-prep",
+                  "interview-preparation",
+                  "programming-interviews",
+                  "software-engineering",
+                  "study-plan"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -28,12 +46,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write code that runs faster, use less memory and prepare for your Job Interview.",
+                "homepage": null,
                 "id": 273209723,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-08T02:00:39Z",
+                "open_issues": 0,
                 "owner": "codescoop",
                 "repo": "Play-with-Data-Structures",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "algorithms",
+                  "coding-challenge",
+                  "coding-interviews",
+                  "cpp",
+                  "data-structures",
+                  "exercises",
+                  "interview-questions"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -44,12 +75,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+                "homepage": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
                 "id": 391055597,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-08-18T08:21:57Z",
+                "open_issues": 664,
                 "owner": "kunal-kushwaha",
                 "repo": "DSA-Bootcamp-Java",
-                "stars": 23646
+                "stars": 23648,
+                "topics": [
+                  "algorithms",
+                  "competitive-programming",
+                  "data-structures",
+                  "faang-interview",
+                  "faang-preparation",
+                  "faang-questions",
+                  "google-interview",
+                  "interview-preparation",
+                  "java",
+                  "leetcode",
+                  "leetcode-java",
+                  "leetcode-solutions",
+                  "math"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -60,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Structure And Algorithms Made Easy In Java",
+                "homepage": null,
                 "id": 28282796,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-01-12T10:53:14Z",
+                "open_issues": 8,
                 "owner": "careermonk",
                 "repo": "data-structures-and-algorithms-made-easy-in-java",
-                "stars": 770
+                "stars": 770,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -76,12 +131,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a collection of Data Structures and Algorithms",
+                "homepage": null,
                 "id": 217589952,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-10-13T12:46:17Z",
+                "open_issues": 14,
                 "owner": "technojam",
                 "repo": "Ultimate_Algorithms_Repository",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "algorithms",
+                  "data-structures",
+                  "hacktoberfest",
+                  "hactoberfest2020"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -92,12 +157,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My DSA practise",
+                "homepage": null,
                 "id": 445736224,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-03-10T16:26:07Z",
+                "open_issues": 0,
                 "owner": "Nawaz2000",
                 "repo": "Java-DSA",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "algorithms",
+                  "array",
+                  "backtracking-algorithm",
+                  "binary-search-tree",
+                  "data-structures",
+                  "dynamic-programming",
+                  "geeksforgeeks",
+                  "graph",
+                  "greedy-algorithms",
+                  "hashing",
+                  "heap",
+                  "linked-list",
+                  "queue",
+                  "recursion",
+                  "searching-algorithms",
+                  "sorting-algorithms",
+                  "stack",
+                  "string",
+                  "tree"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -108,12 +198,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of C++ programmes for learning DSA concepts",
+                "homepage": null,
                 "id": 396035661,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-03-01T13:31:33Z",
+                "open_issues": 2,
                 "owner": "rupak-20",
                 "repo": "DSA-concepts",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "algorithms",
+                  "cpp",
+                  "data-structures"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -124,12 +223,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All Algorithms implemented in Python",
+                "homepage": "https://thealgorithms.github.io/Python/",
                 "id": 63476337,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:50:15Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:17:23Z",
+                "open_issues": 1063,
                 "owner": "TheAlgorithms",
                 "repo": "Python",
-                "stars": 224076
+                "stars": 224083,
+                "topics": [
+                  "algorithm",
+                  "algorithm-competitions",
+                  "algorithms-implemented",
+                  "algos",
+                  "community-driven",
+                  "education",
+                  "hacktoberfest",
+                  "interview",
+                  "learn",
+                  "practice",
+                  "python",
+                  "searches",
+                  "sorting-algorithms",
+                  "sorts"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -140,12 +259,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All Algorithms implemented in Java",
+                "homepage": null,
                 "id": 63477660,
                 "language": "Java",
-                "last_commit": "2026-08-28T05:49:34Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:43:53Z",
+                "open_issues": 12,
                 "owner": "TheAlgorithms",
                 "repo": "Java",
-                "stars": 66194
+                "stars": 66196,
+                "topics": [
+                  "algorithm",
+                  "algorithm-challenges",
+                  "algorithms",
+                  "algorithms-datastructures",
+                  "data-structures",
+                  "hacktoberfest",
+                  "java",
+                  "search",
+                  "sort",
+                  "sorting-algorithms"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -156,12 +291,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+                "homepage": null,
                 "id": 126577260,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-26T02:43:08Z",
+                "open_issues": 404,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196576
+                "stars": 196577,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "computer-science",
+                  "data-structures",
+                  "interview",
+                  "interview-preparation",
+                  "javascript",
+                  "javascript-algorithms"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -172,12 +321,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal examples of data structures and algorithms in Python",
+                "homepage": "http://keon.kim/algorithms/",
                 "id": 74073233,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T17:12:38Z",
+                "open_issues": 5,
                 "owner": "keon",
                 "repo": "algorithms",
-                "stars": 25542
+                "stars": 25540,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "competitive-programming",
+                  "data-structure",
+                  "graph",
+                  "python",
+                  "search",
+                  "sort",
+                  "tree"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -188,12 +352,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of algorithms and data structures",
+                "homepage": null,
                 "id": 85371262,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-06-23T09:33:06Z",
+                "open_issues": 48,
                 "owner": "williamfiset",
                 "repo": "algorithms",
-                "stars": 18724
+                "stars": 18726,
+                "topics": [
+                  "adjacency",
+                  "adjacency-matrix",
+                  "algorithm",
+                  "algorithms",
+                  "dijkstra",
+                  "dynamic-programming",
+                  "edmonds-karp-algorithm",
+                  "geometry",
+                  "graph-theory",
+                  "linear-algebra",
+                  "mathematics",
+                  "matrix-multiplication",
+                  "maxflow",
+                  "nlog",
+                  "search-algorithm",
+                  "search-algorithms",
+                  "sorting-algorithms",
+                  "strings",
+                  "traveling-salesman",
+                  "tree-algorithms"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -204,12 +394,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":fireworks:Interactive Online Platform that Visualizes Algorithms from Code",
+                "homepage": "https://algorithm-visualizer.org/",
                 "id": 58836534,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-09T06:54:22Z",
+                "open_issues": 80,
                 "owner": "algorithm-visualizer",
                 "repo": "algorithm-visualizer",
-                "stars": 48702
+                "stars": 48702,
+                "topics": [
+                  "algorithm",
+                  "animation",
+                  "data-structure",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -220,12 +420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 139158882,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-07-18T20:23:24Z",
+                "open_issues": 13,
                 "owner": "Ashishgup1",
                 "repo": "Competitive-Coding",
-                "stars": 1462
+                "stars": 1462,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -243,12 +448,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Preprocessing is an essential task in data science. Without properly preprocessed data, the results of any data analysis or machine learning model could be inaccurate.",
+                "homepage": null,
                 "id": 597452139,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-02-08T21:41:40Z",
+                "open_issues": 0,
                 "owner": "Abdelrhman-Sayed70",
                 "repo": "Data_Preprocessing",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "datacleaning",
+                  "datapreprocessing",
+                  "jupyter-notebook",
+                  "machine-learning",
+                  "pandas",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -266,12 +483,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.",
+                "homepage": "https://deepkapha.ai",
                 "id": 97159209,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-19T09:40:41Z",
+                "open_issues": 157,
                 "owner": "TarrySingh",
                 "repo": "Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
-                "stars": 4000
+                "stars": 4000,
+                "topics": [
+                  "artificial-intelligence",
+                  "aws",
+                  "capsule-network",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "ipython-notebook",
+                  "kaggle",
+                  "keras",
+                  "lua",
+                  "machine-learning",
+                  "matplotlib",
+                  "neural-network",
+                  "pandas",
+                  "python",
+                  "python-data",
+                  "pytorch",
+                  "scikit-learn",
+                  "tensorflow",
+                  "tensorflow-tutorials",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -282,12 +525,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The motive behind Creating this repo is to feel the fear of mathematics and do what ever you want to do in Machine Learning , Deep Learning  and other fields of AI",
+                "homepage": null,
                 "id": 146541960,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-13T07:52:53Z",
+                "open_issues": 0,
                 "owner": "hrnbot",
                 "repo": "Basic-Mathematics-for-Machine-Learning",
-                "stars": 750
+                "stars": 750,
+                "topics": [
+                  "ai",
+                  "algebra",
+                  "beginner",
+                  "calculus",
+                  "linear-algebra",
+                  "machine-learning",
+                  "machinelearning-python",
+                  "mathematical-analysis",
+                  "mathematical-functions",
+                  "mathematics",
+                  "maths",
+                  "notebook",
+                  "prerequisites",
+                  "probability",
+                  "python",
+                  "pytorch",
+                  "siraj",
+                  "siraj-raval",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -298,12 +566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All the ML algorithms, ML models are coded from scratch by pure Python/Numpy with the Math under the hood. It works well on CPU. ",
+                "homepage": "https://giangtranml.github.io",
                 "id": 173302826,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-05-08T10:44:29Z",
+                "open_issues": 1,
                 "owner": "giangtranml",
                 "repo": "ml-from-scratch",
-                "stars": 224
+                "stars": 224,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -321,12 +594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Introduction to Mathematical Computing with Python and Jupyter",
+                "homepage": "https://patrickwalls.github.io/mathematicalpython",
                 "id": 199181698,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-02-13T03:59:56Z",
+                "open_issues": 0,
                 "owner": "patrickwalls",
                 "repo": "mathematicalpython",
-                "stars": 559
+                "stars": 559,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -337,12 +615,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of notebooks for an introduction to Python for Mathematicians.",
+                "homepage": null,
                 "id": 81734739,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-12-30T20:04:45Z",
+                "open_issues": 6,
                 "owner": "drvinceknight",
                 "repo": "Python-Mathematics-Handbook",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "mathematics"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -353,12 +638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a cheat-sheet for mathematical notation in code form",
+                "homepage": null,
                 "id": 38273467,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-03-08T02:36:31Z",
+                "open_issues": 36,
                 "owner": "Experience-Monks",
                 "repo": "math-as-code",
-                "stars": 15488
+                "stars": 15488,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -369,12 +659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mathematics for Robotics",
+                "homepage": null,
                 "id": 452298460,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-21T15:33:13Z",
+                "open_issues": 1,
                 "owner": "michiganrobotics",
                 "repo": "rob501",
-                "stars": 2925
+                "stars": 2932,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -385,12 +680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Comprehensive Roadmap to Mathematics",
+                "homepage": null,
                 "id": 172679145,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-29T18:34:40Z",
+                "open_issues": 4,
                 "owner": "TalalAlrawajfeh",
                 "repo": "mathematics-roadmap",
-                "stars": 3550
+                "stars": 3551,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -401,12 +701,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Books",
+                "homepage": null,
                 "id": 51041998,
                 "language": "Mathematica",
+                "license": null,
                 "last_commit": "2016-02-04T00:54:26Z",
+                "open_issues": 0,
                 "owner": "PlamenStilyianov",
                 "repo": "FinMathematics",
-                "stars": 1702
+                "stars": 1702,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -417,12 +722,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome mathematics resources",
+                "homepage": null,
                 "id": 41793121,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-14T08:36:36Z",
+                "open_issues": 0,
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16191
+                "stars": 16194,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lecture-notes",
+                  "list",
+                  "mathematics"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -433,12 +749,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📈📄👀A lookup repo for a variety of discrete and continuous distributions (incl. Beta, Binomial, Cauchy, Chi-squared, Geometric, Hypergeometric, Normal & Poisson)",
+                "homepage": null,
                 "id": 115935279,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2018-01-23T20:20:57Z",
+                "open_issues": 0,
                 "owner": "jgoerner",
                 "repo": "distribution-cheatsheet",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "bayes",
+                  "cauchy",
+                  "characteristics",
+                  "chi-square",
+                  "distribution",
+                  "distribution-cheatsheet",
+                  "geometric",
+                  "lookup",
+                  "normal",
+                  "poisson",
+                  "pymc3",
+                  "python",
+                  "random-variables",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -456,12 +792,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Collection of Flutter and Dart Tips and Tricks",
+                "homepage": "https://linktr.ee/vandadnp",
                 "id": 352520596,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2023-09-10T16:58:52Z",
+                "open_issues": 8,
                 "owner": "vandadnp",
                 "repo": "flutter-tips-and-tricks",
-                "stars": 6809
+                "stars": 6809,
+                "topics": [
+                  "dart",
+                  "flutter",
+                  "flutter-ui"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -472,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains code of the book: Learning Dart, by Dzenan Ridjanovic and Ivo Balbaert (Packt Publishing)",
+                "homepage": null,
                 "id": 12524635,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2014-06-04T07:39:33Z",
+                "open_issues": 1,
                 "owner": "Ivo-Balbaert",
                 "repo": "learning_dart",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -488,12 +838,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains Collection of UI made using Flutter.",
+                "homepage": null,
                 "id": 188238055,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2019-08-17T18:56:19Z",
+                "open_issues": 1,
                 "owner": "iharshb",
                 "repo": "flutter_ui_collection",
-                "stars": 263
+                "stars": 263,
+                "topics": [
+                  "dart",
+                  "flutter",
+                  "flutter-examples",
+                  "flutter-ui",
+                  "flutter-ui-collection",
+                  "ui-collections",
+                  "ui-kit"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -504,12 +867,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time Android, Kotlin and Java Interview Questions and Answers - Cheatsheet to hack into top Companies",
+                "homepage": "https://www.coderefer.com/blog/interview-questions/android-interview-questions/",
                 "id": 150301363,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-11T01:51:33Z",
+                "open_issues": 0,
                 "owner": "vamsitallapudi",
                 "repo": "Android-Interview-Questions-And-Answers",
-                "stars": 305
+                "stars": 305,
+                "topics": [
+                  "android",
+                  "android-development",
+                  "android-interview",
+                  "android-interview-practice",
+                  "android-interview-questions",
+                  "android-interviews",
+                  "dagger",
+                  "dagger2",
+                  "dagger2-android",
+                  "intent",
+                  "intent-service",
+                  "interview-questions",
+                  "java",
+                  "kotlin",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -520,12 +904,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo is to add best practices that developers can apply to write clean, short and testable code in android.",
+                "homepage": null,
                 "id": 135898571,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-23T10:27:08Z",
+                "open_issues": 1,
                 "owner": "balsikandar",
                 "repo": "Best-Coding-practices-in-android",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "android",
+                  "android-development",
+                  "android-layout",
+                  "ankolayouts",
+                  "articles",
+                  "best-practices",
+                  "clean-code",
+                  "coding-principles",
+                  "open-source",
+                  "performance",
+                  "programming"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -543,12 +944,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "12 Weeks, 24 Lessons, IoT for All!",
+                "homepage": null,
                 "id": 344192338,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-05-26T21:50:02Z",
+                "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "IoT-For-Beginners",
-                "stars": 17018
+                "stars": 17019,
+                "topics": [
+                  "cpp",
+                  "hacktoberfest",
+                  "iot",
+                  "iot-device",
+                  "iot-edge",
+                  "microcontroller",
+                  "microsoft-for-beginners",
+                  "python",
+                  "raspberry-pi",
+                  "rpi"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -559,12 +976,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Curated list of Security Resources for all connected things",
+                "homepage": "https://v33ru.github.io/awesome-connected-things-sec/",
                 "id": 133933655,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-18T14:04:55Z",
+                "open_issues": 0,
                 "owner": "V33RU",
                 "repo": "awesome-connected-things-sec",
-                "stars": 3524
+                "stars": 3524,
+                "topics": [
+                  "automotive-security",
+                  "awesome",
+                  "awesome-list",
+                  "ble-security",
+                  "bluetooth-security",
+                  "embedded-security",
+                  "firmware-analysis",
+                  "firmware-security",
+                  "hardware-hacking",
+                  "ics-security",
+                  "iot-pentesting",
+                  "iot-security",
+                  "reverse-engineering",
+                  "rf-security",
+                  "wireless-security"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -582,12 +1020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains solutions to FY comps practicals. This material is intended for Learning and referencing and not for copying.Please do not copy this material.",
+                "homepage": null,
                 "id": 420018238,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-07T04:27:22Z",
+                "open_issues": 9,
                 "owner": "Aatmaj-Zephyr",
                 "repo": "Solutions-to-first-year-practicals",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -598,12 +1041,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "best resources for the community & home of Open Source",
+                "homepage": null,
                 "id": 534507274,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-10-16T19:19:00Z",
+                "open_issues": 0,
                 "owner": "Ashish-khanagwal",
                 "repo": "Open-source-practice-and-resources",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "android-development",
+                  "devops",
+                  "hacktoberfest",
+                  "hacktoberfest-starter",
+                  "hacktoberfest2025",
+                  "machine-learning",
+                  "programming",
+                  "web3",
+                  "webdevelopment"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -621,12 +1079,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interview questions",
+                "homepage": null,
                 "id": 22043847,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-31T18:47:32Z",
+                "open_issues": 171,
                 "owner": "mission-peace",
                 "repo": "interview",
-                "stars": 11358
+                "stars": 11358,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -637,12 +1100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source list of developer questions to ask prospective employers",
+                "homepage": null,
                 "id": 9925600,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-28T03:44:01Z",
+                "open_issues": 2,
                 "owner": "Twipped",
                 "repo": "InterviewThis",
-                "stars": 6905
+                "stars": 6905,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -653,12 +1121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Questions to ask the company during your interview",
+                "homepage": null,
                 "id": 207117992,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-19T22:41:18Z",
+                "open_issues": 23,
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28586
+                "stars": 28587,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -669,12 +1142,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated coding interview preparation materials for busy software engineers",
+                "homepage": "https://www.techinterviewhandbook.org",
                 "id": 62607227,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T12:06:42Z",
+                "open_issues": 35,
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 142266
+                "stars": 142271,
+                "topics": [
+                  "algorithm",
+                  "algorithm-interview",
+                  "algorithm-interview-questions",
+                  "algorithms",
+                  "behavioral-interviews",
+                  "coding-interviews",
+                  "interview-practice",
+                  "interview-preparation",
+                  "interview-questions",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -685,12 +1174,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Everything you need to prepare for your technical interview",
+                "homepage": null,
                 "id": 16334982,
                 "language": null,
+                "license": "WTFPL",
                 "last_commit": "2024-12-25T19:55:23Z",
+                "open_issues": 12,
                 "owner": "Olshansk",
                 "repo": "interview",
-                "stars": 18360
+                "stars": 18360,
+                "topics": [
+                  "google-interview",
+                  "guide",
+                  "interview",
+                  "interview-questions",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -701,12 +1201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some useful resources for coding interview preparation for internships/jobs.",
+                "homepage": null,
                 "id": 202400441,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-08-30T19:09:37Z",
+                "open_issues": 0,
                 "owner": "coding-club-iit-jammu",
                 "repo": "Coding-Interview-Preparation",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -717,12 +1222,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lecture video links for preparation of Placements",
+                "homepage": null,
                 "id": 453396795,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-08-06T05:48:49Z",
+                "open_issues": 11,
                 "owner": "riti2409",
                 "repo": "Resources-for-preparation-Of-Placements",
-                "stars": 3756
+                "stars": 3756,
+                "topics": [
+                  "arrays-and-strings",
+                  "c",
+                  "dsa",
+                  "dsa-algorithm",
+                  "graph",
+                  "heap",
+                  "linkedlist"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -733,12 +1251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Studying for a tech interview sucks. Here's an open source cheat sheet to help",
+                "homepage": null,
                 "id": 205901522,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-01T06:37:55Z",
+                "open_issues": 15,
                 "owner": "tsiege",
                 "repo": "Tech-Interview-Cheat-Sheet",
-                "stars": 4681
+                "stars": 4681,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -756,12 +1279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)",
+                "homepage": null,
                 "id": 468608116,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-03-10T16:25:46Z",
+                "open_issues": 0,
                 "owner": "WonderPro",
                 "repo": "LeetCode",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -772,12 +1300,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 algorithm practice",
+                "homepage": null,
                 "id": 109152244,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-03-09T21:15:08Z",
+                "open_issues": 0,
                 "owner": "stephencarrera",
                 "repo": "toy-problems",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "codewars",
+                  "leetcode",
+                  "leetcode-javascript"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -788,12 +1325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub).",
+                "homepage": null,
                 "id": 441735753,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-02-05T17:37:36Z",
+                "open_issues": 0,
                 "owner": "nilesyadv",
                 "repo": "LeetCode-Practice",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -804,12 +1346,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This Repository Contains All My Solved Leetcode Problems.",
+                "homepage": null,
                 "id": 448273776,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-28T15:08:50Z",
+                "open_issues": 1,
                 "owner": "knockcat",
                 "repo": "Leetcode",
-                "stars": 506
+                "stars": 506,
+                "topics": [
+                  "cpp",
+                  "data-structures",
+                  "knockcat",
+                  "leetcode",
+                  "leetcode-solutions"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -820,12 +1373,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of competitive programming solutions",
+                "homepage": null,
                 "id": 408555051,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-03-02T07:58:22Z",
+                "open_issues": 0,
                 "owner": "rupak-20",
                 "repo": "Competitive-Programming",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "codechef",
+                  "competitive-programming",
+                  "cpp",
+                  "problem-solving",
+                  "solutions"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -836,12 +1400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Competitive Programming",
+                "homepage": null,
                 "id": 369305094,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-02-13T12:28:44Z",
+                "open_issues": 0,
                 "owner": "Navaneethp007",
                 "repo": "MissionImpossible",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -852,12 +1421,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of CP topics with Their Explanation and Source Code",
+                "homepage": null,
                 "id": 508271104,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-09-11T12:46:36Z",
+                "open_issues": 0,
                 "owner": "Abdelrhman-Sayed70",
                 "repo": "Competitive_Programming",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "algorithms",
+                  "competitve-programming",
+                  "datastructure",
+                  "faang",
+                  "proble",
+                  "problemsolving"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -875,12 +1456,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ",
+                "homepage": "http://awesomeios.dev",
                 "id": 21700699,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:34:29Z",
+                "open_issues": 24,
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53191
+                "stars": 53195,
+                "topics": [
+                  "apple-swift",
+                  "arkit",
+                  "awesome",
+                  "ios",
+                  "ios-animation",
+                  "ios-libraries",
+                  "objective-c",
+                  "objective-c-library",
+                  "swift-extensions",
+                  "swift-framework",
+                  "swift-language",
+                  "swift-library",
+                  "swift-programming"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -891,12 +1491,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Most usable tools for iOS penetration testing",
+                "homepage": null,
                 "id": 112600629,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-06T14:01:12Z",
+                "open_issues": 0,
                 "owner": "ansjdnakjdnajkd",
                 "repo": "iOS",
-                "stars": 1307
+                "stars": 1307,
+                "topics": [
+                  "apple",
+                  "cheatsheet",
+                  "frida",
+                  "ghidra",
+                  "information-security",
+                  "information-security-research",
+                  "infosec",
+                  "ios",
+                  "jailbreak",
+                  "keychain",
+                  "macos",
+                  "objection",
+                  "objective-c",
+                  "pentest",
+                  "research",
+                  "security",
+                  "security-tools",
+                  "slides",
+                  "swift",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -914,12 +1540,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript",
+                "homepage": null,
                 "id": 448715893,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-12T05:10:25Z",
+                "open_issues": 104,
                 "owner": "smartcontractkit",
                 "repo": "full-blockchain-solidity-course-js",
-                "stars": 14038
+                "stars": 14038,
+                "topics": [
+                  "alchemy",
+                  "blockchain",
+                  "chainlink",
+                  "dao",
+                  "defi",
+                  "eth-security-toolbox",
+                  "ethereum",
+                  "hardhat",
+                  "ipfs",
+                  "javascript",
+                  "moralis",
+                  "nextjs",
+                  "nft",
+                  "openzeppelin",
+                  "reactjs",
+                  "remix",
+                  "smart-contracts",
+                  "solidity",
+                  "thegraphprotocol",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -930,12 +1582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A suggested learning path for blockchain development",
+                "homepage": null,
                 "id": 104366016,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-31T07:11:11Z",
+                "open_issues": 5,
                 "owner": "protofire",
                 "repo": "blockchain-learning-path",
-                "stars": 2673
+                "stars": 2673,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -953,12 +1610,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and discipline",
+                "homepage": "https://learntocloud.guide",
                 "id": 377305568,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-14T03:23:22Z",
+                "open_issues": 0,
                 "owner": "learntocloud",
                 "repo": "learn-to-cloud",
-                "stars": 5774
+                "stars": 5774,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "cloud",
+                  "devops",
+                  "hacktoberfest",
+                  "learning",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -976,12 +1646,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "150+ HTML5 Website Templates",
+                "homepage": "https://learning-zone.github.io/website-templates/",
                 "id": 208548841,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-04-26T13:14:07Z",
+                "open_issues": 5,
                 "owner": "learning-zone",
                 "repo": "website-templates",
-                "stars": 5999
+                "stars": 5999,
+                "topics": [
+                  "css3",
+                  "html-templates",
+                  "html-theme",
+                  "html-website",
+                  "html5",
+                  "javascript",
+                  "responsive-layout",
+                  "website-template"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -992,12 +1676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple cheatsheet for a Django REST API backend.",
+                "homepage": null,
                 "id": 145080988,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2018-11-11T19:17:58Z",
+                "open_issues": 0,
                 "owner": "ryanthtra",
                 "repo": "django-rest-api-cheatsheet",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1008,12 +1697,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome things related to Django",
+                "homepage": "http://awesomedjango.org",
                 "id": 129094260,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-18T13:46:11Z",
+                "open_issues": 10,
                 "owner": "wsvincent",
                 "repo": "awesome-django",
-                "stars": 11221
+                "stars": 11223,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "django"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1024,12 +1722,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code samples for Learning React by Alex Banks and Eve Porcello, published by O'Reilly Media",
+                "homepage": null,
                 "id": 61668321,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-02-13T16:40:12Z",
+                "open_issues": 19,
                 "owner": "MoonHighway",
                 "repo": "learning-react",
-                "stars": 3738
+                "stars": 3739,
+                "topics": [
+                  "functional-js",
+                  "jest",
+                  "react",
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1040,12 +1748,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Materials, slides and other goodies from my Node.JS courses",
+                "homepage": null,
                 "id": 120661657,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-11-27T13:14:06Z",
+                "open_issues": 6,
                 "owner": "goldbergyoni",
                 "repo": "nodejs-course",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "api",
+                  "asynchronous",
+                  "best-practices",
+                  "clean-architecture",
+                  "clean-code",
+                  "expressjs",
+                  "javascript",
+                  "microservice",
+                  "nodejs",
+                  "performance",
+                  "promises",
+                  "swagger",
+                  "test-driven-development",
+                  "testing-framework"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1056,12 +1784,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "30 Days of React Content and Source Code",
+                "homepage": "https://www.fullstackreact.com/30-days-of-react/",
                 "id": 78477480,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-10-09T07:18:29Z",
+                "open_issues": 157,
                 "owner": "fullstackreact",
                 "repo": "30-days-of-react",
-                "stars": 2251
+                "stars": 2251,
+                "topics": [
+                  "30-days-of-code",
+                  "code-examples",
+                  "fullstackreact",
+                  "react",
+                  "reactjs",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1072,12 +1812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "30 days of JavaScript projects",
+                "homepage": "https://JavaScript30.com",
                 "id": 79238805,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-01-23T16:23:43Z",
+                "open_issues": 1,
                 "owner": "SanKlein",
                 "repo": "JavaScript-30",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1088,12 +1833,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👩‍🚀👨‍🚀 Must-read articles, videos and books for coders, marketers and bootstrappers.",
+                "homepage": null,
                 "id": 121539639,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2023-09-16T16:25:36Z",
+                "open_issues": 0,
                 "owner": "LeCoupa",
                 "repo": "awesome-bootstrappers",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "articles",
+                  "development",
+                  "growth",
+                  "growth-hacking",
+                  "marketing",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -1111,12 +1868,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...",
+                "homepage": "https://cybercloud.guru/",
                 "id": 483309081,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-12T07:08:09Z",
+                "open_issues": 0,
                 "owner": "jassics",
                 "repo": "security-study-plan",
-                "stars": 5048
+                "stars": 5049,
+                "topics": [
+                  "api-security",
+                  "application-security",
+                  "appsec",
+                  "appsec-tutorials",
+                  "aws-security",
+                  "azure-security",
+                  "cybersecurity",
+                  "cybersecurity-education",
+                  "devsecops-university",
+                  "gcp-security",
+                  "infosec",
+                  "pentesting",
+                  "security-testing",
+                  "study-guide",
+                  "study-plan",
+                  "study-planner"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -1134,12 +1913,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.",
+                "homepage": "http://twitter.com/inancgumus",
                 "id": 153099672,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-24T23:03:52Z",
+                "open_issues": 44,
                 "owner": "inancgumus",
                 "repo": "learngo",
-                "stars": 20122
+                "stars": 20122,
+                "topics": [
+                  "best-practices",
+                  "course",
+                  "design-patterns",
+                  "exercise",
+                  "exercises",
+                  "go",
+                  "golang",
+                  "golang-examples",
+                  "idiomatic-go",
+                  "idioms",
+                  "learn-go",
+                  "learn-to-code",
+                  "learning-by-doing",
+                  "learning-go",
+                  "learning-golang",
+                  "patterns",
+                  "patterns-go",
+                  "project",
+                  "quizzes",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1150,12 +1955,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Includes programs written in Java. You are welcome to contribute here!",
+                "homepage": null,
                 "id": 318177182,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-08-06T22:19:03Z",
+                "open_issues": 40,
                 "owner": "PrajaktaSathe",
                 "repo": "Java",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "beginner",
+                  "beginner-friendly",
+                  "coding",
+                  "good-first-issue",
+                  "good-first-pr",
+                  "hacktoberfest",
+                  "hacktoberfest-accepted",
+                  "hacktoberfest2021",
+                  "java",
+                  "java-concepts",
+                  "oop-principles",
+                  "programming"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1166,12 +1989,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bunch of links to blog posts, articles, videos, etc for learning Rust",
+                "homepage": null,
                 "id": 35210243,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-29T08:20:56Z",
+                "open_issues": 10,
                 "owner": "ctjhoa",
                 "repo": "rust-learning",
-                "stars": 12233
+                "stars": 12233,
+                "topics": [
+                  "blog-article",
+                  "book",
+                  "hacktoberfest",
+                  "learn",
+                  "rust",
+                  "teaching",
+                  "tutorial",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1182,12 +2019,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn JavaScript by adventuring around in the terminal.",
+                "homepage": "http://nodeschool.io",
                 "id": 24617126,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T09:51:43Z",
+                "open_issues": 8,
                 "owner": "workshopper",
                 "repo": "javascripting",
-                "stars": 2907
+                "stars": 2907,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1198,12 +2040,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn Kotlin programming from scratch",
+                "homepage": null,
                 "id": 148912411,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2022-03-08T04:01:50Z",
+                "open_issues": 2,
                 "owner": "smartherd",
                 "repo": "KotlinTutorial",
-                "stars": 292
+                "stars": 292,
+                "topics": [
+                  "android",
+                  "functional-programming",
+                  "kotlin",
+                  "kotlin-android",
+                  "kotlin-coroutines",
+                  "kotlin-language",
+                  "kotlin-library",
+                  "kotlin-native",
+                  "object-oriented-programming"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1214,12 +2071,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💎 The Missing Cheatsheet for Ruby",
+                "homepage": null,
                 "id": 192870025,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-27T06:36:22Z",
+                "open_issues": 6,
                 "owner": "lifeparticle",
                 "repo": "Ruby-Cheatsheet",
-                "stars": 219
+                "stars": 219,
+                "topics": [
+                  "awesome",
+                  "basic",
+                  "cheatsheet",
+                  "gem",
+                  "hash",
+                  "lambdas",
+                  "loop",
+                  "programming",
+                  "range",
+                  "ruby",
+                  "ruby-articles",
+                  "ruby-gem",
+                  "ruby-lang",
+                  "ruby-on-rails",
+                  "ruby-scripts",
+                  "yield"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1230,12 +2109,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A set of TypeScript related notes used for quick reference. The cheatsheet contains references to types, classes, decorators, and many other TypeScript related subjects.",
+                "homepage": "https://rmolinamir.github.io/typescript-cheatsheet/",
                 "id": 172856676,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-08-13T03:45:27Z",
+                "open_issues": 0,
                 "owner": "rmolinamir",
                 "repo": "typescript-cheatsheet",
-                "stars": 827
+                "stars": 827,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1246,12 +2130,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Cheatsheet - interactive hands-on course by LabEx.",
+                "homepage": "https://labex.io/courses/python-cheatsheet",
                 "id": 118820677,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-07-01T08:14:51Z",
+                "open_issues": 22,
                 "owner": "labex-labs",
                 "repo": "python-cheatsheet",
-                "stars": 4952
+                "stars": 4952,
+                "topics": [
+                  "course",
+                  "exercises",
+                  "hands-on",
+                  "labex",
+                  "labs",
+                  "programming",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1262,12 +2159,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列",
+                "homepage": "https://geektutu.com/post/gee.html",
                 "id": 201658460,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-07-19T01:50:47Z",
+                "open_issues": 51,
                 "owner": "geektutu",
                 "repo": "7days-golang",
-                "stars": 16986
+                "stars": 16987,
+                "topics": [
+                  "golang",
+                  "learning",
+                  "scratch",
+                  "starter-project"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1278,12 +2185,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+                "homepage": "http://slides.com/drksephy/ecmascript-2015",
                 "id": 50134307,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-10-08T07:44:38Z",
+                "open_issues": 7,
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13323
+                "stars": 13322,
+                "topics": [
+                  "cheatsheet",
+                  "es6-javascript",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1294,12 +2210,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python cheatsheet for beginner :construction_worker:",
+                "homepage": null,
                 "id": 194203768,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-20T08:42:15Z",
+                "open_issues": 0,
                 "owner": "tuantvk",
                 "repo": "python-cheatsheet",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "cheatsheet",
+                  "django",
+                  "python",
+                  "python-script",
+                  "python3",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1310,12 +2238,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Textbook for the \"Programming Basics\" course @ SoftUni (Java, English)",
+                "homepage": "https://java-book.softuni.org",
                 "id": 182970565,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-20T08:26:20Z",
+                "open_issues": 1,
                 "owner": "SoftUni",
                 "repo": "Programming-Basics-Book-Java-EN",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "book",
+                  "free",
+                  "java",
+                  "nakov",
+                  "programming",
+                  "softuni",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1326,12 +2267,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+                "homepage": "https://thealgorithms.github.io/C-Plus-Plus",
                 "id": 63477612,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-10-11T14:51:22Z",
+                "open_issues": 25,
                 "owner": "TheAlgorithms",
                 "repo": "C-Plus-Plus",
-                "stars": 34616
+                "stars": 34615,
+                "topics": [
+                  "algorithm",
+                  "algorithm-competitions",
+                  "algorithms-implemented",
+                  "artificial-intelligence-algorithms",
+                  "computer-science",
+                  "cpp",
+                  "data-structures",
+                  "educational",
+                  "instructor-materials",
+                  "interview-preparation",
+                  "interview-questions",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "mathematics",
+                  "search",
+                  "sort"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1342,12 +2305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the Repository for the WonderPro program for the batch of 2021",
+                "homepage": null,
                 "id": 453095159,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-11T04:51:08Z",
+                "open_issues": 0,
                 "owner": "Aatmaj-Zephyr",
                 "repo": "Batch-2021",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1358,12 +2326,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo is made for the Learning Python blog course. In this course, all relevant material is provided for the course. For any suggestions, feedback or doubts, feel free to contact me via LinkedIn or Gmail.",
+                "homepage": "https://aatmaj-zephyr.github.io/Learning-Python/",
                 "id": 378375642,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-07T06:58:15Z",
+                "open_issues": 7,
                 "owner": "Aatmaj-Zephyr",
                 "repo": "Learning-Python",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "course",
+                  "education",
+                  "educational",
+                  "learning-python",
+                  "python",
+                  "python-3",
+                  "teaching"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1374,12 +2355,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is made for the course MATLAB MONDAYS. This is a blog course for learning the basics of MATLAB. The posts are posted on dev.to platform and alternatively on this repo.",
+                "homepage": "https://dev.to/aatmaj/launching-matlab-mondays-a-crash-course-nb1",
                 "id": 382763508,
                 "language": "MATLAB",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-23T04:55:01Z",
+                "open_issues": 2,
                 "owner": "Aatmaj-Zephyr",
                 "repo": "MATLAB-MONDAYS",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "blog",
+                  "matlab"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1390,12 +2379,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reference matrial  for the advance python workshop",
+                "homepage": null,
                 "id": 85925360,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-12-16T06:17:49Z",
+                "open_issues": 1,
                 "owner": "kjsce-codecell",
                 "repo": "Advance-Python-Notes",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1406,12 +2400,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "100 Projects from Python 100 DaysOFCode Pro BootCamp",
+                "homepage": null,
                 "id": 369084223,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-09-18T05:25:42Z",
+                "open_issues": 0,
                 "owner": "PrachetShah",
                 "repo": "Python-100DaysOfCode",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "100daysofcode",
+                  "django",
+                  "dsa",
+                  "flask",
+                  "python",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -1429,12 +2435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DBMS_SQL Notes",
+                "homepage": null,
                 "id": 450828603,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-01-07T11:05:54Z",
+                "open_issues": 10,
                 "owner": "riti2409",
                 "repo": "DBMS_SQL-Notes",
-                "stars": 719
+                "stars": 719,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -1452,12 +2463,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 88994936,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-03-30T07:11:20Z",
+                "open_issues": 1,
                 "owner": "sematext",
                 "repo": "cheatsheets",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "docker",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1468,12 +2487,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Cheatsheet Repository",
+                "homepage": "http://cheatsheets.ruanbekker.com/",
                 "id": 195028166,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-27T15:34:12Z",
+                "open_issues": 6,
                 "owner": "ruanbekker",
                 "repo": "cheatsheets",
-                "stars": 535
+                "stars": 535,
+                "topics": [
+                  "aws",
+                  "bash",
+                  "cheat-sheets",
+                  "cheatsheet",
+                  "devops",
+                  "docker",
+                  "elasticsearch",
+                  "jq",
+                  "kubectl",
+                  "kubernetes",
+                  "linux",
+                  "mongodb",
+                  "mysql",
+                  "postgresql"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1484,12 +2523,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown Cheatsheet for Github Readme.md",
+                "homepage": null,
                 "id": 6155249,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-08-31T20:33:42Z",
+                "open_issues": 2,
                 "owner": "tchapi",
                 "repo": "markdown-cheatsheet",
-                "stars": 5293
+                "stars": 5294,
+                "topics": [
+                  "markdown",
+                  "markdown-cheatsheet"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1500,12 +2547,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 A Repository for developers for different kinds of Programming Cheatsheets",
+                "homepage": "https://darkmatter18.github.io/cheatsheet/",
                 "id": 180860601,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-01-20T19:27:30Z",
+                "open_issues": 1,
                 "owner": "darkmatter18",
                 "repo": "cheatsheet",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "cheatsheets",
+                  "git",
+                  "hacktoberfest",
+                  "javascript",
+                  "matlab",
+                  "python",
+                  "r",
+                  "sql",
+                  "typescript",
+                  "vim",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1516,12 +2580,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+                "homepage": "https://lecoupa.github.io/awesome-cheatsheets/",
                 "id": 110058856,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-12T17:26:10Z",
+                "open_issues": 136,
                 "owner": "LeCoupa",
                 "repo": "awesome-cheatsheets",
-                "stars": 46405
+                "stars": 46405,
+                "topics": [
+                  "backend",
+                  "bash",
+                  "cheatsheet",
+                  "cheatsheets",
+                  "database",
+                  "django",
+                  "docker",
+                  "feathersjs",
+                  "frontend",
+                  "javascript",
+                  "kubernetes",
+                  "language",
+                  "nodejs",
+                  "php",
+                  "programming-language",
+                  "redis",
+                  "sailsjs",
+                  "vim",
+                  "vuejs",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1532,12 +2622,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java Cheat Sheet : Comprehensive Java Programming Guide With Mini Projects | Best for people, who are coming from other programming language or Just want a quick Refresh",
+                "homepage": null,
                 "id": 256900171,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-04-19T03:52:31Z",
+                "open_issues": 0,
                 "owner": "PushpenderIndia",
                 "repo": "Java-Cheat-Sheet",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "comprehensive-guide",
+                  "java-cheat-sheet",
+                  "java-cheatsheet",
+                  "java-mini-projects",
+                  "learn-java-fundamentals"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1548,12 +2649,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reminder of HTML elements.",
+                "homepage": null,
                 "id": 21326058,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2016-08-04T09:30:59Z",
+                "open_issues": 0,
                 "owner": "gendx",
                 "repo": "html-cheat-sheet",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "cheatsheet",
+                  "html"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -1571,12 +2680,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Useful GitHub Repos That Every Developer Should Follow",
+                "homepage": null,
                 "id": 369996666,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-10-12T01:19:52Z",
+                "open_issues": 0,
                 "owner": "0xRitesh",
                 "repo": "awesome-repositories",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "hacktoberfest",
+                  "list",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1587,12 +2707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manually curated collection of some useful repositories",
+                "homepage": null,
                 "id": 106404294,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2018-11-01T03:32:31Z",
+                "open_issues": 1,
                 "owner": "thuva4",
                 "repo": "Useful-Repositories",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -1610,12 +2735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opensource initiative to which over 37 individuals from all over the world collaborated in order to streamline the process of learning Git and GitHub.",
+                "homepage": "https://eshantrivedi21.github.io/Git-CheatSheet/",
                 "id": 540370508,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-23T18:56:25Z",
+                "open_issues": 0,
                 "owner": "EshanTrivedi21",
                 "repo": "Git-CheatSheet",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1626,12 +2756,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 286938796,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-03T10:46:25Z",
+                "open_issues": 3,
                 "owner": "kodekloudhub",
                 "repo": "git-for-beginners-course",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1642,12 +2777,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Most Common Git Commands With Explanation",
+                "homepage": null,
                 "id": 594971359,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-04T13:03:46Z",
+                "open_issues": 0,
                 "owner": "Abdelrhman-Sayed70",
                 "repo": "Git",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "contribution",
+                  "git",
+                  "githup",
+                  "opensource"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -1665,12 +2810,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming great resources",
+                "homepage": null,
                 "id": 146462367,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-04-17T08:29:33Z",
+                "open_issues": 0,
                 "owner": "mmenestret",
                 "repo": "fp-resources",
-                "stars": 485
+                "stars": 485,
+                "topics": [
+                  "algebra",
+                  "category-theory",
+                  "free-monads",
+                  "functional-programming",
+                  "monad",
+                  "monad-transformers",
+                  "monoid",
+                  "recursion-schemes",
+                  "scala",
+                  "typeclass",
+                  "typeclasses"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1681,12 +2843,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of WeMakeDevs.",
+                "homepage": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak",
                 "id": 436221598,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-18T09:11:07Z",
+                "open_issues": 63,
                 "owner": "kunal-kushwaha",
                 "repo": "DevOps-Bootcamp",
-                "stars": 2415
+                "stars": 2415,
+                "topics": [
+                  "ci-cd",
+                  "cloud",
+                  "cloud-computing",
+                  "cloud-native",
+                  "devops",
+                  "docker",
+                  "infrastructure",
+                  "interview-preparation",
+                  "k3s",
+                  "kubernetes",
+                  "linux",
+                  "monitoring",
+                  "networking",
+                  "testing",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1697,12 +2880,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Programming practice (JavaScript, Java, etc.)",
+                "homepage": null,
                 "id": 98815365,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-09-13T03:39:33Z",
+                "open_issues": 0,
                 "owner": "SanKlein",
                 "repo": "practice",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1713,12 +2901,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ultra-simplified explanation to design patterns",
+                "homepage": null,
                 "id": 82227585,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-02T04:54:48Z",
+                "open_issues": 16,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48729
+                "stars": 48752,
+                "topics": [
+                  "architecture",
+                  "computer-science",
+                  "design-patterns",
+                  "engineering",
+                  "principles",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1729,12 +2929,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains a collection of various books for Programming",
+                "homepage": null,
                 "id": 468610251,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-03-04T14:52:04Z",
+                "open_issues": 0,
                 "owner": "WonderPro",
                 "repo": "Books_for_programming",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1745,12 +2950,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ultimate cheatsheet for Bootstrap5 🚀",
+                "homepage": "https://bootstrap-cheatsheet.themeselection.com/",
                 "id": 331967906,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-08-27T10:52:30Z",
+                "open_issues": 2,
                 "owner": "themeselection",
                 "repo": "bootstrap-cheatsheet",
-                "stars": 472
+                "stars": 472,
+                "topics": [
+                  "bootstrap",
+                  "bootstrap-template",
+                  "bootstrap-theme",
+                  "bootstrap4",
+                  "bootstrap5"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             },
@@ -1761,12 +2977,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collective list of free APIs",
+                "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
                 "id": 54346799,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T19:19:56Z",
+                "open_issues": 1809,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 472185
+                "stars": 472428,
+                "topics": [
+                  "api",
+                  "apis",
+                  "dataset",
+                  "development",
+                  "free",
+                  "list",
+                  "lists",
+                  "open-source",
+                  "public",
+                  "public-api",
+                  "public-apis",
+                  "resources",
+                  "software"
+                ]
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
             }
@@ -1780,15 +3015,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:31:53.584Z",
+    "last_updated": "2026-08-29T04:48:26.066Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This is a collection of useful repositories providing resources for learning. Feel free to contribute here",
+      "homepage": "https://aatmaj-zephyr.github.io/A-collection-of-useful-repositories/",
       "id": 468614243,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2026-01-15T09:23:43Z",
+      "open_issues": 3,
       "owner": "Aatmaj-Zephyr",
       "repo": "A-collection-of-useful-repositories",
-      "stars": 299
+      "stars": 299,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "beginner",
+        "good-first-contribution",
+        "good-first-example",
+        "good-first-pr",
+        "hacktoberfest",
+        "non-code",
+        "repositories",
+        "resources",
+        "resources-repo",
+        "useful-reading-list",
+        "useful-repo"
+      ]
     },
     "original_repository_sha": "6124736b6adbc56b1ab675dc286a240037fcb305",
     "enhanced_repository": "enhansome/enhansome-A-collection-of-useful-repositories",
