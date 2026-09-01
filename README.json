@@ -21,7 +21,7 @@
                 "open_issues": 126,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 360058,
+                "stars": 360125,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -84,7 +84,7 @@
                 "open_issues": 664,
                 "owner": "kunal-kushwaha",
                 "repo": "DSA-Bootcamp-Java",
-                "stars": 23669,
+                "stars": 23684,
                 "topics": [
                   "algorithms",
                   "competitive-programming",
@@ -228,11 +228,11 @@
                 "id": 63476337,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T06:01:51Z",
-                "open_issues": 1059,
+                "last_commit": "2026-08-31T21:37:40Z",
+                "open_issues": 1060,
                 "owner": "TheAlgorithms",
                 "repo": "Python",
-                "stars": 224143,
+                "stars": 224159,
                 "topics": [
                   "algorithm",
                   "algorithm-competitions",
@@ -264,11 +264,11 @@
                 "id": 63477660,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-29T05:51:09Z",
+                "last_commit": "2026-09-01T05:39:55Z",
                 "open_issues": 13,
                 "owner": "TheAlgorithms",
                 "repo": "Java",
-                "stars": 66199,
+                "stars": 66205,
                 "topics": [
                   "algorithm",
                   "algorithm-challenges",
@@ -300,7 +300,7 @@
                 "open_issues": 404,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196581,
+                "stars": 196584,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -361,7 +361,7 @@
                 "open_issues": 48,
                 "owner": "williamfiset",
                 "repo": "algorithms",
-                "stars": 18728,
+                "stars": 18727,
                 "topics": [
                   "adjacency",
                   "adjacency-matrix",
@@ -403,7 +403,7 @@
                 "open_issues": 80,
                 "owner": "algorithm-visualizer",
                 "repo": "algorithm-visualizer",
-                "stars": 48706,
+                "stars": 48703,
                 "topics": [
                   "algorithm",
                   "animation",
@@ -492,7 +492,7 @@
                 "open_issues": 157,
                 "owner": "TarrySingh",
                 "repo": "Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
-                "stars": 3999,
+                "stars": 4000,
                 "topics": [
                   "artificial-intelligence",
                   "aws",
@@ -534,7 +534,7 @@
                 "open_issues": 0,
                 "owner": "hrnbot",
                 "repo": "Basic-Mathematics-for-Machine-Learning",
-                "stars": 751,
+                "stars": 752,
                 "topics": [
                   "ai",
                   "algebra",
@@ -603,7 +603,7 @@
                 "open_issues": 0,
                 "owner": "patrickwalls",
                 "repo": "mathematicalpython",
-                "stars": 559,
+                "stars": 558,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
@@ -668,7 +668,7 @@
                 "open_issues": 1,
                 "owner": "michiganrobotics",
                 "repo": "rob501",
-                "stars": 2949,
+                "stars": 2953,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
@@ -689,7 +689,7 @@
                 "open_issues": 4,
                 "owner": "TalalAlrawajfeh",
                 "repo": "mathematics-roadmap",
-                "stars": 3554,
+                "stars": 3555,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
@@ -710,7 +710,7 @@
                 "open_issues": 0,
                 "owner": "PlamenStilyianov",
                 "repo": "FinMathematics",
-                "stars": 1705,
+                "stars": 1706,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
@@ -731,7 +731,7 @@
                 "open_issues": 0,
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16212,
+                "stars": 16218,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -801,7 +801,7 @@
                 "open_issues": 8,
                 "owner": "vandadnp",
                 "repo": "flutter-tips-and-tricks",
-                "stars": 6809,
+                "stars": 6811,
                 "topics": [
                   "dart",
                   "flutter",
@@ -953,7 +953,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "IoT-For-Beginners",
-                "stars": 17024,
+                "stars": 17023,
                 "topics": [
                   "cpp",
                   "hacktoberfest",
@@ -985,7 +985,7 @@
                 "open_issues": 0,
                 "owner": "V33RU",
                 "repo": "awesome-connected-things-sec",
-                "stars": 3527,
+                "stars": 3528,
                 "topics": [
                   "automotive-security",
                   "awesome",
@@ -1088,7 +1088,7 @@
                 "open_issues": 171,
                 "owner": "mission-peace",
                 "repo": "interview",
-                "stars": 11358,
+                "stars": 11357,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
@@ -1130,7 +1130,7 @@
                 "open_issues": 23,
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28588,
+                "stars": 28590,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:53.584Z"
@@ -1151,7 +1151,7 @@
                 "open_issues": 36,
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 142328,
+                "stars": 142357,
                 "topics": [
                   "algorithm",
                   "algorithm-interview",
@@ -1183,7 +1183,7 @@
                 "open_issues": 13,
                 "owner": "Olshansk",
                 "repo": "interview",
-                "stars": 18362,
+                "stars": 18361,
                 "topics": [
                   "google-interview",
                   "guide",
@@ -1231,7 +1231,7 @@
                 "open_issues": 11,
                 "owner": "riti2409",
                 "repo": "Resources-for-preparation-Of-Placements",
-                "stars": 3756,
+                "stars": 3757,
                 "topics": [
                   "arrays-and-strings",
                   "c",
@@ -1465,7 +1465,7 @@
                 "open_issues": 25,
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53224,
+                "stars": 53232,
                 "topics": [
                   "apple-swift",
                   "arkit",
@@ -1549,7 +1549,7 @@
                 "open_issues": 104,
                 "owner": "smartcontractkit",
                 "repo": "full-blockchain-solidity-course-js",
-                "stars": 14038,
+                "stars": 14037,
                 "topics": [
                   "alchemy",
                   "blockchain",
@@ -1655,7 +1655,7 @@
                 "open_issues": 5,
                 "owner": "learning-zone",
                 "repo": "website-templates",
-                "stars": 6000,
+                "stars": 6002,
                 "topics": [
                   "css3",
                   "html-templates",
@@ -1706,7 +1706,7 @@
                 "open_issues": 10,
                 "owner": "wsvincent",
                 "repo": "awesome-django",
-                "stars": 11224,
+                "stars": 11225,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1731,7 +1731,7 @@
                 "open_issues": 19,
                 "owner": "MoonHighway",
                 "repo": "learning-react",
-                "stars": 3739,
+                "stars": 3740,
                 "topics": [
                   "functional-js",
                   "jest",
@@ -1877,7 +1877,7 @@
                 "open_issues": 1,
                 "owner": "jassics",
                 "repo": "security-study-plan",
-                "stars": 5051,
+                "stars": 5052,
                 "topics": [
                   "api-security",
                   "application-security",
@@ -1922,7 +1922,7 @@
                 "open_issues": 44,
                 "owner": "inancgumus",
                 "repo": "learngo",
-                "stars": 20126,
+                "stars": 20128,
                 "topics": [
                   "best-practices",
                   "course",
@@ -2139,7 +2139,7 @@
                 "open_issues": 22,
                 "owner": "labex-labs",
                 "repo": "python-cheatsheet",
-                "stars": 4952,
+                "stars": 4953,
                 "topics": [
                   "course",
                   "exercises",
@@ -2168,7 +2168,7 @@
                 "open_issues": 51,
                 "owner": "geektutu",
                 "repo": "7days-golang",
-                "stars": 16987,
+                "stars": 16989,
                 "topics": [
                   "golang",
                   "learning",
@@ -2276,7 +2276,7 @@
                 "open_issues": 25,
                 "owner": "TheAlgorithms",
                 "repo": "C-Plus-Plus",
-                "stars": 34624,
+                "stars": 34622,
                 "topics": [
                   "algorithm",
                   "algorithm-competitions",
@@ -2589,7 +2589,7 @@
                 "open_issues": 136,
                 "owner": "LeCoupa",
                 "repo": "awesome-cheatsheets",
-                "stars": 46411,
+                "stars": 46414,
                 "topics": [
                   "backend",
                   "bash",
@@ -2982,11 +2982,11 @@
                 "id": 54346799,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-30T16:27:33Z",
-                "open_issues": 1841,
+                "last_commit": "2026-08-31T20:26:11Z",
+                "open_issues": 1850,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 473502,
+                "stars": 473979,
                 "topics": [
                   "api",
                   "apis",
@@ -3015,7 +3015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:45:41.146Z",
+    "last_updated": "2026-09-01T09:20:46.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a collection of useful repositories providing resources for learning. Feel free to contribute here",
@@ -3027,7 +3027,7 @@
       "open_issues": 3,
       "owner": "Aatmaj-Zephyr",
       "repo": "A-collection-of-useful-repositories",
-      "stars": 299,
+      "stars": 300,
       "topics": [
         "awesome",
         "awesome-list",
