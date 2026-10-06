@@ -21,7 +21,7 @@
                 "open_issues": 127,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 362439,
+                "stars": 362442,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -84,7 +84,7 @@
                 "open_issues": 668,
                 "owner": "kunal-kushwaha",
                 "repo": "DSA-Bootcamp-Java",
-                "stars": 23955,
+                "stars": 23956,
                 "topics": [
                   "algorithms",
                   "competitive-programming",
@@ -229,7 +229,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-05T19:23:47Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "TheAlgorithms",
                 "repo": "Python",
                 "stars": 225260,
@@ -300,7 +300,7 @@
                 "open_issues": 407,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196858,
+                "stars": 196857,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -731,7 +731,7 @@
                 "open_issues": 1,
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16541,
+                "stars": 16542,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1465,7 +1465,7 @@
                 "open_issues": 27,
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53537,
+                "stars": 53538,
                 "topics": [
                   "apple-swift",
                   "arkit",
@@ -1706,7 +1706,7 @@
                 "open_issues": 4,
                 "owner": "wsvincent",
                 "repo": "awesome-django",
-                "stars": 11270,
+                "stars": 11271,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2852,7 +2852,7 @@
                 "open_issues": 63,
                 "owner": "kunal-kushwaha",
                 "repo": "DevOps-Bootcamp",
-                "stars": 2421,
+                "stars": 2422,
                 "topics": [
                   "ci-cd",
                   "cloud",
@@ -2983,10 +2983,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-05T22:52:00Z",
-                "open_issues": 2023,
+                "open_issues": 2030,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 486432,
+                "stars": 486445,
                 "topics": [
                   "api",
                   "apis",
@@ -3015,7 +3015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:13:57.381Z",
+    "last_updated": "2026-10-06T11:11:17.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a collection of useful repositories providing resources for learning. Feel free to contribute here",
